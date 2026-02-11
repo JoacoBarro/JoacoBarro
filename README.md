@@ -1,4 +1,4 @@
-# Dont use ATS here
+# Do Not Use ATS Here
 
 ## 👋 Hi, I'm Joaquin Barro
 
