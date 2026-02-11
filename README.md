@@ -1,6 +1,6 @@
-# Joaquín Barro
+# Dont use ATS here
 
-## 👋 About Me
+## 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
 Junior profile focused on <b>Frontend Development</b> and <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, and Tableau</b>.
