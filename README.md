@@ -49,46 +49,57 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ### 🔹 Projects
 
-- [Inventory CRUD (Python + SQLite)](https://github.com/JoacoBarro/python_sqlite_inventory_crud)  
-  A simple inventory management system with full CRUD operations using **Python** and **SQLite**.
+- [Inventory CRUD](https://github.com/JoacoBarro/python_sqlite_inventory_crud)
+<p align="justify">
+  A simple inventory management system with full CRUD operations using <b>Python</b> and <b>SQLite</b>.
+<p align="justify">
 
-- [Online Sales Dataset Analysis](https://github.com/JoacoBarro/Online_Sales_Dataset_Analysis)  
-  Exploratory data analysis project focused on extracting insights and trends from an online sales dataset.
+- [Online Sales Dataset Analysis](https://github.com/JoacoBarro/Online_Sales_Dataset_Analysis)
+<p align="justify">  
+  Exploratory data analysis project focused on extracting insights and trends from an online sales dataset using <b>Python</b> for EDA, <b>Excel</b> for tabular review, and <b>Tableau</b> dashboards to visualize key patterns and performance metrics.
+<p align="justify">
 
 ### 📚 Learning Path
 
-- [Data Analyst Career Preparation](https://github.com/JoacoBarro/Data_Analyst_Career_Preparation)  
-  A structured learning roadmap covering **SQL**, **Python**, **Excel**, **Tableau**, and data analytics fundamentals.
-
+- [Data Analyst Career Preparation](https://github.com/JoacoBarro/Data_Analyst_Career_Preparation)
+<p align="justify">
+  A structured learning roadmap given by IBM covering <b>SQL</b>, <b>Python</b>, <b>Excel</b>, <b>Tableau</b>, and <b>data analytics fundamentals</b>.
+<p align="justify">
+  
 ---
 
 ## 🌐 Frontend Web Development
 
 ### 🔹 Projects
 
-- [CineMan - Movies & Series](https://github.com/JoacoBarro/CineMan_Movies_Series)  
-  A responsive web app for browsing movies and series, fully developed using **Cursor**, consuming data from an external **API** with **HTML**, **CSS**, and **JavaScript**.
-
+- [CineMan - Movies & Series](https://github.com/JoacoBarro/CineMan_Movies_Series)
+<p align="justify">
+  A responsive web app for browsing movies and series, fully developed using <b>Cursor</b>, consuming data from an external <b>API</b> with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
+<p align="justify">
+  
 ---
 
 ## 🎓 University
 ### 🔹 Projects
 
-- [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/Academic_Programming_Project)  
-  A university project developed in **Java**, inspired by SkiFree, built **from scratch** using **design patterns** and **data structures**, featuring game logic and interactive gameplay.
+- [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/Academic_Programming_Project)
+<p align="justify">
+  A university project developed in <b>Java</b>, inspired by SkiFree, built <b>from scratch</b> using <b>design patterns</b> and <b>data structures</b>, featuring game logic and interactive gameplay.
+<p align="justify">
+  
 ---
 
 ## 📜 Certificates
 
-- [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_697e76f4d3e77846a787e2fe_1769899349729_completion_certificate.pdf) - Forage (2026)  
-- [Python Essentials 1](https://www.credly.com/badges/feaeb468-e208-4ad8-8b7e-58935f8c1a10/linked_in_profile) - Cisco (2026)  
-- [Python Essentials 2](https://www.credly.com/badges/753221fe-2f93-4c79-a16f-ed04d2629a6d/linked_in_profile) - Cisco (2026)  
-- [Data Science Essentials With Python](https://www.credly.com/badges/9de25ca5-6656-4a05-9a97-6d25a0c18977/linked_in_profile) - Cisco (2026)  
-- [Data Analysis Using Python](https://www.credly.com/badges/1547a200-bc8c-4fc2-82e2-99acdff8a101/linked_in_profile) - IBM (2026)  
-- [Python for Data Science](https://www.credly.com/badges/cf4cf7fb-6231-47fe-bbbf-fed526ca4bbf/linked_in_profile) - IBM (2026)  
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5dcd841f03fe4de288a6adc0be748f3e) - IBM (2026)  
-- [Data Fundamentals](https://www.credly.com/badges/bf805595-674c-4e47-9771-daa491727b49/linked_in_profile) - IBM (2026)  
-- [Become a Full-Stack Web Developer](https://www.linkedin.com/learning/certificates/96031ce2ee269a5576e072585e941bba30b53fcd1f9e90ff075fd99bded322c4) - LinkedIn Learning (2021)
+- [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_697e76f4d3e77846a787e2fe_1769899349729_completion_certificate.pdf) - Forage *(2026)*  
+- [Python Essentials 1](https://www.credly.com/badges/feaeb468-e208-4ad8-8b7e-58935f8c1a10/linked_in_profile) - Cisco *(2026)*  
+- [Python Essentials 2](https://www.credly.com/badges/753221fe-2f93-4c79-a16f-ed04d2629a6d/linked_in_profile) - Cisco *(2026)*  
+- [Data Science Essentials With Python](https://www.credly.com/badges/9de25ca5-6656-4a05-9a97-6d25a0c18977/linked_in_profile) - Cisco *(2026)*
+- [Data Analysis Using Python](https://www.credly.com/badges/1547a200-bc8c-4fc2-82e2-99acdff8a101/linked_in_profile) - IBM *(2026)* 
+- [Python for Data Science](https://www.credly.com/badges/cf4cf7fb-6231-47fe-bbbf-fed526ca4bbf/linked_in_profile) - IBM *(2026)*  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5dcd841f03fe4de288a6adc0be748f3e) - IBM *(2026)*  
+- [Data Fundamentals](https://www.credly.com/badges/bf805595-674c-4e47-9771-daa491727b49/linked_in_profile) - IBM *(2026)*  
+- [Become a Full-Stack Web Developer](https://www.linkedin.com/learning/certificates/96031ce2ee269a5576e072585e941bba30b53fcd1f9e90ff075fd99bded322c4) - LinkedIn Learning *(2021)*
 
 ---
 
