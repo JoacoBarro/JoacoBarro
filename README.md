@@ -75,8 +75,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ### 🔹 Projects
 
 - [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/Academic_Programming_Project)  
-  A university project developed in **Java**, inspired by SkiFree, featuring game logic and interactive gameplay.
-
+  A university project developed in **Java**, inspired by SkiFree, built **from scratch** using **design patterns** and **data structures**, featuring game logic and interactive gameplay.
 ---
 
 ## 📜 Certificates
