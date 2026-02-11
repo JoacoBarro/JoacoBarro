@@ -2,121 +2,80 @@
 
 ## 👋 About Me
 
-Junior profile focused on **Frontend Development** and **Data Analytics**, with experience building responsive web applications and data-driven projects using **HTML, CSS, JavaScript, Python, SQL, Excel, and Tableau**.
+<p align="justify">
+Junior profile focused on <b>Frontend Development</b> and <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, and Tableau</b>.
+</p>
 
-Currently studying **Information Systems Engineering** at **Universidad Nacional del Sur (UNS)** in **Bahía Blanca, Argentina**, where I have developed a strong foundation in programming concepts and learned **Java** through academic coursework.
+<p align="justify">
+Currently studying <b>Information Systems Engineering</b> at <b>Universidad Nacional del Sur (UNS)</b> in <b>Bahía Blanca, Argentina</b>, where I have developed a strong foundation in programming concepts and gained experience with <b>Java</b> through academic coursework.
+</p>
 
-Skilled in **API integration**, search and filtering features, **KPI dashboards**, **data cleaning**, and **data visualization**. Strong focus on **usability**, **performance**, and writing **clean, maintainable code**.
+<p align="justify">
+Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboards</b>, <b>data cleaning</b>, and <b>data visualization</b>, with a strong focus on <b>usability</b>, <b>performance</b>, and writing <b>clean, maintainable code</b>.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">HTML5</span>&nbsp;&nbsp;&nbsp;
+### 🔹 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">CSS3</span>&nbsp;&nbsp;&nbsp;
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">JavaScript</span>
-</p>
+### 🔹 Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-black?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge)
 
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Python</span>&nbsp;&nbsp;&nbsp;
+### 🔹 Databases
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Java</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">SQL</span>
-</p>
-
-### Data Analytics
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Pandas</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">NumPy</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Matplotlib</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Seaborn</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Excel</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Tableau</span>
-</p>
-
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">SQLite</span>
-</p>
-
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">Git</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">GitHub</span>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">VS Code</span>
-</p>
+### 🔹 Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
 
 ---
 
 ## 📊 Data Analysis
 
-- Data cleaning and transformation using **Python (Pandas)** and **SQL**
-- KPI dashboards and reporting with **Excel** and **Tableau**
-- Exploratory Data Analysis (EDA) and data visualization
-
 ### 🔹 Projects
 
 - [Inventory CRUD (Python + SQLite)](https://github.com/JoacoBarro/python_sqlite_inventory_crud)  
-- [Online Sales Dataset Analysis](https://github.com/JoacoBarro/Online_Sales_Dataset_Analysis) 
+  A simple inventory management system with full CRUD operations using **Python** and **SQLite**.
+
+- [Online Sales Dataset Analysis](https://github.com/JoacoBarro/Online_Sales_Dataset_Analysis)  
+  Exploratory data analysis project focused on extracting insights and trends from an online sales dataset.
 
 ### 📚 Learning Path
 
-- [Data Analyst Career Preparation](https://github.com/JoacoBarro/Data_Analyst_Career_Preparation)   
+- [Data Analyst Career Preparation](https://github.com/JoacoBarro/Data_Analyst_Career_Preparation)  
+  A structured learning roadmap covering **SQL**, **Python**, **Excel**, **Tableau**, and data analytics fundamentals.
 
 ---
 
 ## 🌐 Frontend Web Development
 
-- Responsive web development with **HTML, CSS, and JavaScript**
-- API consumption and integration
-- Search, filter, and dynamic UI features
-- Focus on performance and user experience
-
 ### 🔹 Projects
 
-- [CineMan - Movies & Series](https://github.com/JoacoBarro/CineMan_Movies_Series)
+- [CineMan - Movies & Series](https://github.com/JoacoBarro/CineMan_Movies_Series)  
+  A responsive web app for browsing movies and series, fully developed using **Cursor**, consuming data from an external **API** with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
 ## 🎓 University
-
-- Academic background in programming and software development
-- Object-oriented programming and problem-solving projects
-- Strong foundation in **Data Structures**
-- Continuous learning through personal projects and hands-on practice
-
 ### 🔹 Projects
 
-- [Academic Programming Project](https://github.com/JoacoBarro/Academic_Programming_Project)
+- [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/Academic_Programming_Project)  
+  A university project developed in **Java**, inspired by SkiFree, featuring game logic and interactive gameplay.
 
 ---
 
