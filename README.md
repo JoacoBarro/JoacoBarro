@@ -33,6 +33,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-black?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge)
+![CSV](https://img.shields.io/badge/CSV-black?style=for-the-badge)
 
 ### 🔹 Databases
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge)
@@ -42,6 +43,9 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge)
+![GitHub%20Copilot](https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge)
 
 ---
 
