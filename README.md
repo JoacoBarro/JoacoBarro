@@ -15,20 +15,27 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 </p>
 
 ---
+## ⭐ Featured Projects
+
+<p align="justify">
+
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
-### 🔹 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-### 🔹 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
-### 🔹 Data Analytics
+###  Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-black?style=for-the-badge)
@@ -36,10 +43,10 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge)
 ![CSV](https://img.shields.io/badge/CSV-black?style=for-the-badge)
 
-### 🔹 Databases
+###  Databases
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge)
 
-### 🔹 Tools
+###  Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
@@ -52,7 +59,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ## 📊 Data Analysis
 
-### 🔹 Projects
+###  Projects
 
 - 🚧 [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis) 🚧
 <p align="justify">
@@ -69,7 +76,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
   Exploratory data analysis project focused on extracting insights and trends from an online sales dataset using <b>Python</b> for EDA, <b>Excel</b> for tabular review, and <b>Tableau</b> dashboards to visualize key patterns and performance metrics.
 <p align="justify">
 
-### 📚 Learning Path
+###  Learning Path
 
 - [Data Analyst Career Preparation - IBM](https://github.com/JoacoBarro/data-analyst-career-preparation-ibm)
 <p align="justify">
@@ -80,7 +87,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ## 🌐 Frontend Web Development
 
-### 🔹 Projects
+### Projects
 
 - [CineMan - Movies & Series](https://github.com/JoacoBarro/cineMan-movies-meries)
 <p align="justify">
@@ -90,7 +97,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ---
 
 ## 🎓 University
-### 🔹 Projects
+### Projects
 
 - [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/academic-programming-project)
 <p align="justify">
