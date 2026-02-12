@@ -54,6 +54,11 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ### 🔹 Projects
 
+- 🚧 [End to End - Sales Analysis Project](https://github.com/JoacoBarro/End_To_End_Sales_Analysis_Project) 🚧
+<p align="justify">
+  🚧 Current Project 🚧
+<p align="justify">
+  
 - [Inventory CRUD](https://github.com/JoacoBarro/python_sqlite_inventory_crud)
 <p align="justify">
   A simple inventory management system with full CRUD operations using <b>Python</b> and <b>SQLite</b>.
