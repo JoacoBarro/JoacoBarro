@@ -54,7 +54,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ### 🔹 Projects
 
-- 🚧 [End to End - Sales Analysis Project](https://github.com/JoacoBarro/End_To_End_Sales_Analysis_Project) 🚧
+- 🚧 [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis) 🚧
 <p align="justify">
   🚧 Current Project 🚧
 <p align="justify">
