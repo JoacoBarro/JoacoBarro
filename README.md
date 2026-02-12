@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
-Junior profile focused on <b>Frontend Development</b> and <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, and Tableau</b>.
+Junior profile focused on <b>Frontend Development</b> and <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, Tableau and Power BI</b>.
 </p>
 
 <p align="justify">
@@ -33,6 +33,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-black?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge)
 ![CSV](https://img.shields.io/badge/CSV-black?style=for-the-badge)
 
 ### 🔹 Databases
