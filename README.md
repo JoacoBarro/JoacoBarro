@@ -61,9 +61,9 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ###  Projects
 
-- 🚧 [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis) 🚧
+- [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis)
 <p align="justify">
-  🚧 Current Project 🚧
+  Complete sales analysis pipeline covering synthetic data generation through feature engineering, including data cleaning, enrichment, and dashboard visualization.
 <p align="justify">
   
 - [Inventory CRUD](https://github.com/JoacoBarro/python-sqlite-inventory-crud)
