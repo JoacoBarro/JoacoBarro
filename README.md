@@ -15,13 +15,6 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 </p>
 
 ---
-## ⭐ Featured Projects
-
-<p align="justify">
-
-</p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -105,10 +98,20 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 <p align="justify">
   
 ---
+## 🧪 Job Simulations
 
+- [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_697e76f4d3e77846a787e2fe_1769899349729_completion_certificate.pdf) - Forage *(2026)*
+<p align="justify">
+I recently participated in Deloitte's job simulation on the <b>Forage</b> platform, and it was incredibly useful to understand what it might be like to be part of the team at <b>Deloitte</b>.  
+
+I was able to analyse data and create a dashboard. I practised using <b>Tableau</b> and <b>Excel</b> and built my <b>data analysis</b> skills in a <b>real-world context</b>.  
+
+Doing this program confirmed that I really enjoy working on technology problems for clients and I'm excited to apply these skills on a team at a company like Deloitte.  
+<p align="justify"> 
+  
+---
 ## 📜 Certificates
 
-- [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_697e76f4d3e77846a787e2fe_1769899349729_completion_certificate.pdf) - Forage *(2026)*  
 - [Python Essentials 1](https://www.credly.com/badges/feaeb468-e208-4ad8-8b7e-58935f8c1a10/linked_in_profile) - Cisco *(2026)*  
 - [Python Essentials 2](https://www.credly.com/badges/753221fe-2f93-4c79-a16f-ed04d2629a6d/linked_in_profile) - Cisco *(2026)*  
 - [Data Science Essentials With Python](https://www.credly.com/badges/9de25ca5-6656-4a05-9a97-6d25a0c18977/linked_in_profile) - Cisco *(2026)*
