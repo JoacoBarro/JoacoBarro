@@ -89,7 +89,7 @@ Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboa
 
 ### Projects
 
-- [CineMan - Movies & Series](https://github.com/JoacoBarro/cineMan-movies-meries)
+- [CineMan - Movies & Series](https://github.com/JoacoBarro/cineman-movies-meries)
 <p align="justify">
   A responsive web app for browsing movies and series, fully developed using <b>Cursor</b>, consuming data from an external <b>API</b> with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
 <p align="justify">
