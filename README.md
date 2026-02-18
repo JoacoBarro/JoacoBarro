@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
-Junior profile focused on <b>Frontend Development</b> and <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, Tableau and Power BI</b>.
+Junior profile focused on <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, Tableau and Power BI</b>.
 </p>
 
 <p align="justify">
@@ -11,7 +11,7 @@ Currently studying <b>Information Systems Engineering</b> at <b>Universidad Naci
 </p>
 
 <p align="justify">
-Skilled in <b>API integration</b>, search and filtering features, <b>KPI dashboards</b>, <b>data cleaning</b>, and <b>data visualization</b>, with a strong focus on <b>usability</b>, <b>performance</b>, and writing <b>clean, maintainable code</b>.
+<i>"I have no technical ability, and I know nothing. I know what I like and what I don't like, and I'm decisive about what I like and what I don't like. The confidence that I have in my taste and my ability to express what I feel has proven helpful for programming"</i>
 </p>
 
 ---
