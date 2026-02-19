@@ -45,6 +45,13 @@ Currently studying <b>Information Systems Engineering</b> at <b>Universidad Naci
 
 ### Data Analysis
 
+🚧🚧🚧🚧🚧🚧🚧  
+- [Hospital Readmission Prediction](https://github.com/JoacoBarro/hospital-readmission-prediction) 🚧
+<p align="justify">
+  Comprehensive end‑to‑end analysis of the Diabetes 130‑US Hospitals for years 1999–2008 dataset from the UCI Machine Learning Repository. This repository walks through the full lifecycle of data analysis — from exploratory pivot tables in Excel to machine learning modeling — and from interactive visualizations to business intelligence dashboards.
+<p align="justify">
+🚧🚧🚧🚧🚧🚧🚧
+  
 - [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis)
 <p align="justify">
   Complete sales analysis pipeline covering synthetic data generation through feature engineering, including data cleaning, enrichment, and dashboard visualization.
