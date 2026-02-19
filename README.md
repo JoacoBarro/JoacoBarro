@@ -84,13 +84,22 @@ Currently studying <b>Information Systems Engineering</b> at <b>Universidad Naci
 ---
 ## 🧪 Job Simulations
 
+- [JPMorgan Chase & Co - Quantitative Research Job Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_697e76f4d3e77846a787e2fe_1771463456042_completion_certificate.pdf) - Forage *(2026)*
+<p align="justify">
+Completed a simulation focused on quantitative research methods   
+
+Analyzed a book of loans to estimate a customer's probability of default  
+
+Used dynamic programming to convert FICO scores into categorical data to predict defaults    
+<p align="justify"> 
+
 - [Deloitte Australia - Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_697e76f4d3e77846a787e2fe_1769899349729_completion_certificate.pdf) - Forage *(2026)*
 <p align="justify">
-I recently participated in Deloitte's job simulation on the <b>Forage</b> platform, and it was incredibly useful to understand what it might be like to be part of the team at <b>Deloitte</b>.  
+Completed a Deloitte job simulation involving data analysis and forensic technology   
 
-I was able to analyse data and create a dashboard. I practised using <b>Tableau</b> and <b>Excel</b> and built my <b>data analysis</b> skills in a <b>real-world context</b>.  
+Created a data dashboard using Tableau   
 
-Doing this program confirmed that I really enjoy working on technology problems for clients and I'm excited to apply these skills on a team at a company like Deloitte.  
+Used Excel to classify data and draw business conclusions  
 <p align="justify"> 
   
 ---
