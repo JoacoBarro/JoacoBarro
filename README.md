@@ -3,11 +3,11 @@
 ## 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
-Junior profile focused on <b>Data Analytics</b>, with experience building responsive web applications and data-driven projects using <b>HTML, CSS, JavaScript, Python, SQL, Excel, Tableau and Power BI</b>.
+<b>Junior Data Analyst</b> with experience in <b>data cleaning</b>, <b>transformation (ETL)</b>, <b>exploratory data analysis (EDA)</b>, and building <b>interactive dashboards</b>. Skilled in <b>Python</b> (Pandas, NumPy), <b>SQL</b>, <b>Excel</b>, <b>Tableau</b>, and <b>Power BI</b> to extract <b>insights</b>, track <b>KPIs</b>, and support <b>data-driven decision-making</b>. Experienced in working with <b>large datasets</b>, creating <b>visual reports</b>, and applying <b>statistical and machine learning</b> techniques for <b>predictive analysis</b>. Strong focus on <b>accuracy</b>, <b>problem-solving</b>, and delivering clear <b>business insights</b> through effective <b>data visualization</b>.
 </p>
 
 <p align="justify">
-Currently studying <b>Information Systems Engineering</b> at <b>Universidad Nacional del Sur (UNS)</b> in <b>Bahía Blanca, Argentina</b>, where I have developed a strong foundation in programming concepts and gained experience with <b>Java</b> through academic coursework.
+Currently studying <b>Information Systems Engineering</b> at <b>Universidad Nacional del Sur (UNS)</b> in <b>Bahía Blanca, Argentina</b>, where I have developed a <b>strong foundation in programming concepts</b> and gained experience with <b>Java</b> through academic coursework.
 </p>
 
 <p align="justify">
