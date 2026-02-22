@@ -34,6 +34,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
 
 </div>
+
 ---
 
 ## ⭐ Main Projects
