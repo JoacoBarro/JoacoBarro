@@ -1,6 +1,4 @@
-# Do Not Use ATS Here
-
-## 👋 Hi, I'm Joaquin Barro
+# 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
 <b>Junior Data Analyst</b> focused on turning raw data into actionable insights. Experienced in <b>data cleaning</b>, <b>ETL</b>, <b>exploratory data analysis (EDA)</b>, and building <b>interactive dashboards</b>. Proficient in <b>Python</b> (Pandas, NumPy), <b>SQL</b>, <b>Excel</b>, <b>Tableau</b>, and <b>Power BI</b> to analyze large datasets, monitor <b>KPIs</b>, and support strategic business decisions. Solid foundation in <b>statistical analysis</b> and <b>predictive modeling</b>, with a focus on accuracy, problem-solving, and delivering clear business insights through effective visualization.
