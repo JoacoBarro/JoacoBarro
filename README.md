@@ -12,6 +12,8 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 
 ## 🛠 Tech Stack
 
+<div align="justify">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
@@ -31,6 +33,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
 
+</div>
 ---
 
 ## ⭐ Main Projects
