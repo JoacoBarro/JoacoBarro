@@ -6,14 +6,9 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 
 ---
 
-## ⭐ Main Projects
+## Main Projects
 
-### 📊 Data Analysis 📊 
-
-- [Hospital Readmission Prediction](https://github.com/JoacoBarro/hospital-readmission-prediction) 🚧
-<p align="justify">
-  Built a complete end-to-end predictive analytics pipeline using the Diabetes 130-US Hospitals dataset from the UCI Machine Learning Repository. Performed data cleaning, feature engineering, exploratory analysis, and model development to evaluate hospital readmission risk, supported by interactive dashboards for stakeholder interpretation.
-<p align="justify">
+### Data Analysis 
   
 - [End to End - Sales Analysis](https://github.com/JoacoBarro/end-to-end-sales-analysis)
 <p align="justify">
@@ -30,7 +25,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
   Developed a lightweight inventory management system implementing full CRUD operations using Python and SQLite, demonstrating database design, query handling, and application logic integration.
 <p align="justify">
 
-### 🧠 Professional Development 🧠
+### Professional Development
 
 - [Data Analytics Fluency Pathway - IBM](https://skills.yourlearning.ibm.com/activity/PLAN-E76CA96A8C45) 🚧
 <p align="justify">
@@ -43,7 +38,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 <p align="justify">
 
 ---
-## 🧪 Job Simulations
+## Job Simulations
 
 - [JPMorgan Chase & Co - Quantitative Research Job Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_697e76f4d3e77846a787e2fe_1771463456042_completion_certificate.pdf) - Forage *(2026)*
 <p align="justify">
@@ -56,7 +51,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 <p align="justify"> 
   
 ---
-## 📜 Certificates
+## Certificates
  
 - [Python Essentials 2](https://www.credly.com/badges/753221fe-2f93-4c79-a16f-ed04d2629a6d/linked_in_profile) - Cisco *(2026)*  
 - [Data Science Essentials With Python](https://www.credly.com/badges/9de25ca5-6656-4a05-9a97-6d25a0c18977/linked_in_profile) - Cisco *(2026)*
@@ -67,7 +62,7 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - 💼 LinkedIn: [Joaquin Barro](https://www.linkedin.com/in/joaquinbarro/)
 - 📧 Email: ingjoaquinbarro@gmail.com
