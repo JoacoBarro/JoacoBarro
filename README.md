@@ -1,39 +1,8 @@
 # 👋 Hi, I'm Joaquin Barro
 
 <p align="justify">
-<b>Junior Data Analyst</b> focused on turning raw data into actionable insights. Experienced in <b>data cleaning</b>, <b>ETL</b>, <b>exploratory data analysis (EDA)</b>, and building <b>interactive dashboards</b>. Proficient in <b>Python</b> (Pandas, NumPy), <b>SQL</b>, <b>Excel</b>, <b>Tableau</b>, and <b>Power BI</b> to analyze large datasets, monitor <b>KPIs</b>, and support strategic business decisions. Solid foundation in <b>statistical analysis</b> and <b>predictive modeling</b>, with a focus on accuracy, problem-solving, and delivering clear business insights through effective visualization.
+Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Universidad Nacional del Sur (UNS)</b> in <b>Bahía Blanca, Argentina</b>, where I have built a solid foundation in programming and gained hands-on experience with different programming lenguages.
 </p>
-
-<p align="justify">
-Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Universidad Nacional del Sur (UNS)</b> in <b>Bahía Blanca, Argentina</b>, where I have built a solid foundation in programming and gained hands-on experience with <b>Java</b> through academic projects.
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<div align="justify">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
-![CSV](https://img.shields.io/badge/CSV-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -73,25 +42,6 @@ Currently pursuing a degree in <b>Information Systems Engineering</b> at <b>Univ
   Completed a structured analytics training program covering SQL, Python, Excel, Tableau, and core data analysis concepts, reinforcing practical and technical foundations for professional data roles.
 <p align="justify">
 
----
-## 💡 Side Projects
-
-### 💻 Frontend Web Development 💻
-
-- [CineMan - Movies & Series](https://github.com/JoacoBarro/cineman-movies-series)
-<p align="justify">
-  Built a responsive web application for browsing movies and series, consuming data from an external API using HTML, CSS, and JavaScript. Focused on clean UI design and dynamic content rendering.
-<p align="justify">
-
----
-
-## 🎓 University 
-
-- [Academic Programming Project - SkiFree](https://github.com/JoacoBarro/academic-programming-project)
-<p align="justify">
-  A university project developed in Java, inspired by SkiFree, built from scratch using design patterns and data structures, featuring game logic and interactive gameplay.
-<p align="justify">
-  
 ---
 ## 🧪 Job Simulations
 
